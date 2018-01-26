@@ -20,8 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="EventListener.h" />
     <ClInclude Include="InputManager.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
