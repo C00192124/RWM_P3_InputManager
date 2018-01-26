@@ -1,3 +1,6 @@
-﻿  demoClass.cpp
-  RWM_P3_Demo.vcxproj -> C:\Users\gameuser\Desktop\RWM_P3\InputManager\Debug\RWM_P3_Demo.exe
-  RWM_P3_Demo.vcxproj -> C:\Users\gameuser\Desktop\RWM_P3\InputManager\Debug\RWM_P3_Demo.pdb (Partial PDB)
+﻿  stdafx.cpp
+  RWM_P3_Demo.cpp
+  demoClass.cpp
+  Generating Code...
+  RWM_P3_Demo.vcxproj -> C:\Users\gameuser\Desktop\RWM_P3_InputManager\InputManager\Debug\RWM_P3_Demo.exe
+  RWM_P3_Demo.vcxproj -> C:\Users\gameuser\Desktop\RWM_P3_InputManager\InputManager\Debug\RWM_P3_Demo.pdb (Partial PDB)
